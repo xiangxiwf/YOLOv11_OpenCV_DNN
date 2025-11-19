@@ -21,7 +21,6 @@ OpenCV_DNN/
 ├── YOLOv11.cpp            # YOLOv11类实现
 ├── yolo11n.onnx           # YOLOv11 Nano模型文件
 ├── test_image.jpg         # 测试图片
-├── build/                 # 构建目录
 └── README.md              # 项目说明文档
 ```
 
