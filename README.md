@@ -14,7 +14,7 @@
 ## 项目结构
 
 ```
-OpenCV_DNN/
+YOLOv11_OpenCV_DNN/
 ├── CMakeLists.txt          # CMake配置文件
 ├── main.cpp                # 主程序入口
 ├── YOLOv11.h              # YOLOv11类头文件
