@@ -168,7 +168,7 @@ cv::Size input_size = cv::Size(640, 640);  // 在YOLOv11.h中修改
 
 以下是程序生成的检测结果示例：
 
-![Detection Result](build/detection_result.jpg)
+![Detection Result](detection_result.jpg)
 
 *图：YOLOv11目标检测结果示例，显示了检测到的物体边界框和类别标签*
 
