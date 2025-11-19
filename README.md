@@ -36,7 +36,7 @@ OpenCV_DNN/
 ### 1. 克隆项目
 ```bash
 git clone https://github.com/xiangxiwf/YOLOv11_OpenCV_DNN.git
-cd OpenCV_DNN
+cd YOLOv11_OpenCV_DNN
 ```
 
 ### 2. 创建构建目录
