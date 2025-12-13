@@ -15,6 +15,7 @@ endif()
 add_executable(YOLOv11_detector
     main.cpp
     YOLOv11.cpp
+    YOLOv11.h
 )
 
 target_link_libraries(YOLOv11_detector ${OpenCV_LIBS})
